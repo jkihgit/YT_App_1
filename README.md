@@ -1,3 +1,8 @@
+License notice </br>
+This app contains user tracking functionality meant to be used for user behavior experiments. </br>
+Data is kept locally, and must be extracted by the researcher from the device manually. </br>
+Telemetry is implemented for bug fixing only (Crashlytics). </br>
+
 <p align="center"><a href="https://newpipe.net"><img src="assets/new_pipe_icon_5.png" width="150"></a></p> 
 <h2 align="center"><b>NewPipe</b></h2>
 <h4 align="center">A libre lightweight streaming front-end for Android.</h4>
