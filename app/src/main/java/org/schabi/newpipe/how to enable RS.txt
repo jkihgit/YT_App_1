@@ -1,0 +1,2 @@
+res/values/bools.xml
+set rs_enabled to true
